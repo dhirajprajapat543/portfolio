@@ -1,0 +1,16 @@
+a{
+    text-transform: capitalize;
+}
+/* [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    margin-inline: 0.5rem;
+    width: 40px;
+    height: 4px;
+    border: none;
+    border-radius: 10px;
+} */
+/* button:focus {
+    outline: none;
+    outline: none;
+    background-color:#a21010!important;
+} */
